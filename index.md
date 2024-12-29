@@ -1,5 +1,5 @@
 ---
-title: Emilie de Rodat : NSI
+title: Emilie de Rodat \: NSI
 ---
 
 Test
